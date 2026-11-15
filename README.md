@@ -46,6 +46,16 @@ En développement, pas encore diffusé : le code sera publié ici avec la premi�
 
 Licence prévue / Planned license : GPL-3.0
 
+## Remerciements / Credits
+
+Merci à tous ceux dont le travail a rendu UIdeCraft possible / Thanks to everyone whose work made UIdeCraft possible:
+
+- Emil Ernerfeldt et les contributeurs d'[egui / eframe](https://github.com/emilk/egui)
+- les auteurs d'egui-rad-builder, première idée de concepteur visuel pour egui
+- Borland et l'équipe de Delphi 7, dont l'environnement reste un modèle
+- l'équipe de [Lazarus](https://www.lazarus-ide.org), qui fait vivre cet esprit en logiciel libre
+- les équipes de Rust, serde, RON, toml et rfd
+
 ---
 
 <p align="center">Un projet <a href="https://fe-be.fr">FeBe</a> - logiciels libres pour makers</p>
